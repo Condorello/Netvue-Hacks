@@ -10,7 +10,7 @@
 
 KERNEL_VERSION="3.4.43-gk"
 PLATFORM_NAME="armv6l"
-KNOWN_DEVICE="netvue"
+KNOWN_DEVICE="nv-goke-ipc"
 FALSE_FIRMWARE_PATH="/mnt/mtd/firmware"
 REAL_FIRMWARE_PATH="/mnt/mtd/netvue/firmware"
 
